@@ -1,0 +1,16 @@
+$white-color: #fff;
+
+body {
+    padding: 10px;
+    margin: 10px;
+    columns: 300px 2;
+   background-color: $white-color;
+}
+
+.box {
+    a {
+        padding: 10px;
+        margin: 20px;
+        background-color: $white-color;
+    }
+}

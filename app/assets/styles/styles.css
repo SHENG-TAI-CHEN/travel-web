@@ -1,16 +1,12 @@
-$white-color: #fff;
+@import "modules/_large-hero";
 
 body {
-    padding: 10px;
-    margin: 10px;
-    columns: 300px 2;
-   background-color: $white-color;
+    color: #555;
+    font-family: 'Roboto',sans-serif;
 }
 
-.box {
-    a {
-        padding: 10px;
-        margin: 20px;
-        background-color: $white-color;
-    }
+img {
+    max-width: 100%;
 }
+
+

@@ -1,13 +1,11 @@
+@import "modules/_large-hero";
+
 body {
-    padding: 10px;
-    margin: 10px;
-    -webkit-columns: 300px 2;
-            columns: 300px 2;
-   background-color: #fff;
+    color: #555;
+    font-family: 'Roboto',sans-serif;
 }
 
-.box a {
-        padding: 10px;
-        margin: 20px;
-        background-color: #fff;
-    }
+img {
+    max-width: 100%;
+}
+
